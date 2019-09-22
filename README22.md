@@ -1,2 +1,0 @@
-# leige-with-javascript
-learn
